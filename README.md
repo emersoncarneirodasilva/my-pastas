@@ -1,6 +1,6 @@
 # My Pastas
 
-Projeto de um site de um restaurante de massas (italiano), onde o cliente pode escolher diverssas massas, com um sistema de entregas (delivery).
+Projeto de um site de um restaurante de massas (italiano), onde o cliente pode escolher diversas massas, com um sistema de entregas (delivery).
 
 Construído com Next.js, TypeScript e Tailwind CSS, o projeto aborda responsividade, melhores práticas no uso do TypeScript entre outros.
 
