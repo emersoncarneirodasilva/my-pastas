@@ -1,35 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Pastas
 
-## Getting Started
+Projeto de um site de um restaurante de massas (italiano), onde o cliente pode escolher diverssas massas, com um sistema de entregas (delivery).
 
-First, run the development server:
+Construído com Next.js, TypeScript e Tailwind CSS, o projeto aborda responsividade, melhores práticas no uso do TypeScript entre outros.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Feito a partir do vídeo (https://bit.ly/3DUuPPV) do canal do YouTube "Lama Dev" (https://bit.ly/3DSMuHY).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Captura da Web_15-8-2023_01238_my-pastas vercel app](https://github.com/emersoncarneirodasilva/my-pastas/assets/94311606/2e4fbc08-8857-48a3-96ca-811e204ba500)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Captura da Web_15-8-2023_01331_my-pastas vercel app](https://github.com/emersoncarneirodasilva/my-pastas/assets/94311606/fe4c3723-5afa-4163-be7b-d49beddb9677)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Captura da Web_15-8-2023_01416_my-pastas vercel app](https://github.com/emersoncarneirodasilva/my-pastas/assets/94311606/47ba5bbf-c0f1-4c0d-a454-e2a4dd4d3ddb)
 
-## Learn More
+![Captura da Web_15-8-2023_01455_my-pastas vercel app](https://github.com/emersoncarneirodasilva/my-pastas/assets/94311606/bd78317d-bf50-41f8-99b8-f4629b72303b)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# my-pastas
+![Captura da Web_15-8-2023_01540_my-pastas vercel app](https://github.com/emersoncarneirodasilva/my-pastas/assets/94311606/382e559a-b45b-44a6-bc10-450e2257e271)
